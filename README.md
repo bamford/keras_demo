@@ -6,7 +6,7 @@ Train some simple fully-connected and convolutional networks on the MNIST datase
 
 `MNIST_Edinburgh.ipynb` - bare version
 
-`MNIST_Edinburgh_presentation.ipynb` -  version with extra material and figures
+`MNIST_Edinburgh_presentation.ipynb` -  version with outputs, extra material and figures
 
 These Jupyter notebooks are set up for presenting with RISE.
 
