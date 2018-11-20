@@ -2,9 +2,11 @@
 
 For the National Meeting of Data-Intensive Science CDTs in Edinburgh.
 
-`MNIS_Edinburgh.ipynb` - train fully-connected and convolutional networks on 10% of the MNIST dataset, with data augmentation to squeeze out a few more precent accuracy
+Train some simple fully-connected and convolutional networks on the MNIST dataset, with data augmentation to squeeze out a few more percent accuracy.
 
-Any `*_gpu_run*` versions contain outputs from running on a GPU machine.
+`MNIST_Edinburgh.ipynb` - bare version
+
+`MNIST_Edinburgh_presentation.ipynb` -  version with extra material and figures
 
 These Jupyter notebooks are set up for presenting with RISE.
 
